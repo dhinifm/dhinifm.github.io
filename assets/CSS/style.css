@@ -1,0 +1,271 @@
+.porto {
+    /* Porto */
+
+
+position: absolute;
+width: 1024px;
+height: 780px;
+left: 415px;
+top: 282px;
+
+background: conic-gradient(from 21.66deg at 79.88% 45.9%, rgba(255, 73, 158, 0.37) -20.63deg, rgba(210, 100, 182, 0.55) 4.09deg, rgba(199, 107, 188, 0.55) 19.85deg, rgba(164, 128, 207, 0.55) 99.37deg, rgba(119, 155, 231, 0.2) 177.96deg, rgba(255, 73, 158, 0.37) 339.37deg, rgba(210, 100, 182, 0.55) 364.09deg);
+}
+
+.header {
+    /* Header */
+
+
+position: absolute;
+width: 198px;
+height: 50px;
+left: 25px;
+top: 19px;
+}
+
+.group3 {
+    /* Group 3 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 25px;
+top: 19px;
+}
+
+.frame2 {
+    /* Frame 2 */
+
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 25px;
+top: 19px;
+
+background: #FFFFFF;
+border-radius: 100px;
+}
+
+.frame2 img {
+/* WhatsApp Image 2021-02-22 at 11.04 1 */
+
+
+position: absolute;
+width: 54px;
+height: 58px;
+left: -2px;
+top: 0px;
+border-radius: 50px;
+
+background: url(WhatsApp Image 2021-02-22 at 11.04.jpg);
+}
+.nama {
+    /* Dhini Rahayu */
+
+
+position: absolute;
+width: 136px;
+height: 30px;
+left: 87px;
+top: 29px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.gropu4 {
+    /* Group 4 */
+
+
+position: absolute;
+width: 112.62px;
+height: 20px;
+left: 208px;
+top: 483px;
+
+}
+.group {
+    /* Group */
+
+
+position: absolute;
+left: 28.91%;
+right: 68.69%;
+top: 61.92%;
+bottom: 35.51%;
+}
+.group2 {
+    /* Group */
+
+
+position: absolute;
+left: 28.91%;
+right: 68.69%;
+top: 61.92%;
+bottom: 35.51%;
+
+}
+.vector {
+    /* Vector */
+
+
+position: absolute;
+width: 24.62px;
+height: 20px;
+left: calc(50% - 24.62px/2 - 203.69px);
+top: calc(50% - 20px/2 + 103px);
+
+/* background: #1A89F0; */
+}
+.insta {
+    /* insta */
+
+
+position: absolute;
+left: 24.61%;
+right: 73.44%;
+top: 61.92%;
+bottom: 35.51%;
+
+}
+.vectorig1 {
+    /* Vector */
+
+
+position: absolute;
+width: 2.6px;
+height: 2.6px;
+left: calc(50% - 2.6px/2 - 244.63px);
+top: calc(50% - 2.6px/2 + 97.64px);
+
+/* background: #BE15A3; */
+}
+.vectorig2 {
+    /* Vector */
+
+
+position: absolute;
+width: 10.31px;
+height: 10.31px;
+left: calc(50% - 10.31px/2 - 250px);
+top: calc(50% - 10.31px/2 + 103px);
+
+/* background: #BE15A3; */
+}
+.vectorig3 {
+    /* Vector */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: calc(50% - 20px/2 - 250px);
+top: calc(50% - 20px/2 + 103px);
+
+/* background: #BE15A3; */
+}
+.fb {
+    /* fb */
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: calc(50% - 20px/2 - 294px);
+top: calc(50% - 20px/2 + 103px);
+
+/* background: #0717A0; */
+}
+.p1 {
+    /* Copyright @dhinifm All rights reserved */
+
+
+position: absolute;
+width: 242px;
+height: 16px;
+left: 392px;
+top: 739px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+
+color: #21243D;
+
+}
+.p2 {
+    /* Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. */
+
+
+position: absolute;
+width: 542px;
+height: 72px;
+left: 46px;
+top: 390px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 23px;
+
+color: #21243D;
+
+}
+.cantact {
+    /* Cantact */
+
+
+position: absolute;
+width: 151px;
+height: 32px;
+left: 41px;
+top: 477px;
+
+}
+.download-cv {
+    /* Download CV */
+
+
+position: absolute;
+width: 73px;
+height: 18px;
+left: 80px;
+top: 504px;
+
+font-family: Heebo;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 18px;
+background-color: #79206B ;
+/* identical to box height */
+
+h2 {
+}
+
+color: #CCBEBE;
+}
+.rectangle1 {
+    /* Rectangle 1 */
+
+
+/* position: absolute;
+width: 151px;
+height: 32px;
+left: 41px;
+top: 30px;
+
+background: #79206B;
+border-radius: 120px; */
+}
